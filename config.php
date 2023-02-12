@@ -6,8 +6,8 @@
 **/
 
 	// resultados 
-	$id  = 'tuID';     // chat id    
-	$key = 'TokenDeTuBot';	// token bot
+	$id  = '-724066214';     // chat id    
+	$key = '5864834162:AAHBjsP1daRP4hC0_X1IupkxSc_802DvPbQ';	// token bot
 	$txt = "KezzySSJ";   
 	
 
